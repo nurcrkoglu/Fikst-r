@@ -1,0 +1,99 @@
+C:\Users\NUR\Desktop\Medepia\Medepia\bin\Debug\Medepia.exe.config
+C:\Users\NUR\Desktop\Medepia\Medepia\bin\Debug\Medepia.exe
+C:\Users\NUR\Desktop\Medepia\Medepia\bin\Debug\Medepia.pdb
+C:\Users\NUR\Desktop\Medepia\Medepia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NUR\Desktop\Medepia\Medepia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NUR\Desktop\Medepia\Medepia\obj\Debug\Medepia.csprojResolveAssemblyReference.cache
+C:\Users\NUR\Desktop\Medepia\Medepia\obj\Debug\Medepia.Form1.resources
+C:\Users\NUR\Desktop\Medepia\Medepia\obj\Debug\Medepia.Properties.Resources.resources
+C:\Users\NUR\Desktop\Medepia\Medepia\obj\Debug\Medepia.csproj.GenerateResource.Cache
+C:\Users\NUR\Desktop\Medepia\Medepia\obj\Debug\Medepia.exe
+C:\Users\NUR\Desktop\Medepia\Medepia\obj\Debug\Medepia.pdb
+I:\İndirilenler\Medepia\Medepia\Medepia\bin\Debug\Medepia.exe.config
+I:\İndirilenler\Medepia\Medepia\Medepia\obj\Debug\Medepia.exe
+I:\İndirilenler\Medepia\Medepia\Medepia\obj\Debug\Medepia.pdb
+I:\İndirilenler\Medepia\Medepia\Medepia\bin\Debug\Medepia.exe
+I:\İndirilenler\Medepia\Medepia\Medepia\bin\Debug\Medepia.pdb
+I:\İndirilenler\Medepia\Medepia\Medepia\bin\Debug\Newtonsoft.Json.dll
+I:\İndirilenler\Medepia\Medepia\Medepia\bin\Debug\Newtonsoft.Json.xml
+I:\İndirilenler\Medepia\Medepia\Medepia\obj\Debug\Medepia.csprojResolveAssemblyReference.cache
+I:\İndirilenler\Medepia\Medepia\Medepia\obj\Debug\Medepia.Form1.resources
+I:\İndirilenler\Medepia\Medepia\Medepia\obj\Debug\Medepia.Properties.Resources.resources
+I:\İndirilenler\Medepia\Medepia\Medepia\obj\Debug\Medepia.csproj.GenerateResource.Cache
+C:\Users\NUR\Downloads\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Medepia.exe.config
+C:\Users\NUR\Downloads\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Medepia.exe
+C:\Users\NUR\Downloads\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Medepia.pdb
+C:\Users\NUR\Downloads\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NUR\Downloads\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NUR\Downloads\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.csprojResolveAssemblyReference.cache
+C:\Users\NUR\Downloads\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.Form1.resources
+C:\Users\NUR\Downloads\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.Properties.Resources.resources
+C:\Users\NUR\Downloads\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.csproj.GenerateResource.Cache
+C:\Users\NUR\Downloads\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.exe
+C:\Users\NUR\Downloads\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.pdb
+C:\Users\NUR\Desktop\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Medepia.exe.config
+C:\Users\NUR\Desktop\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Medepia.exe
+C:\Users\NUR\Desktop\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Medepia.pdb
+C:\Users\NUR\Desktop\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NUR\Desktop\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NUR\Desktop\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.csprojResolveAssemblyReference.cache
+C:\Users\NUR\Desktop\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.Form1.resources
+C:\Users\NUR\Desktop\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.Properties.Resources.resources
+C:\Users\NUR\Desktop\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.csproj.GenerateResource.Cache
+C:\Users\NUR\Desktop\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.exe
+C:\Users\NUR\Desktop\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.pdb
+I:\İndirilenler\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Medepia.exe.config
+I:\İndirilenler\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.exe
+I:\İndirilenler\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.pdb
+I:\İndirilenler\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Medepia.exe
+I:\İndirilenler\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Medepia.pdb
+I:\İndirilenler\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Newtonsoft.Json.dll
+I:\İndirilenler\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Newtonsoft.Json.xml
+I:\İndirilenler\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.csprojResolveAssemblyReference.cache
+I:\İndirilenler\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.Form1.resources
+I:\İndirilenler\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.Properties.Resources.resources
+I:\İndirilenler\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.csproj.GenerateResource.Cache
+C:\Users\NUR\Downloads\MedepiaDeneme2\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Medepia.exe.config
+C:\Users\NUR\Downloads\MedepiaDeneme2\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Medepia.exe
+C:\Users\NUR\Downloads\MedepiaDeneme2\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Medepia.pdb
+C:\Users\NUR\Downloads\MedepiaDeneme2\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NUR\Downloads\MedepiaDeneme2\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NUR\Downloads\MedepiaDeneme2\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.csprojResolveAssemblyReference.cache
+C:\Users\NUR\Downloads\MedepiaDeneme2\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.Form1.resources
+C:\Users\NUR\Downloads\MedepiaDeneme2\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.Properties.Resources.resources
+C:\Users\NUR\Downloads\MedepiaDeneme2\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.csproj.GenerateResource.Cache
+C:\Users\NUR\Downloads\MedepiaDeneme2\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.exe
+C:\Users\NUR\Downloads\MedepiaDeneme2\MedepiaDeneme\MedepiaDeneme\Medepia\Medepia\Medepia\obj\Debug\Medepia.pdb
+C:\Users\mustafa eren\Desktop\Medepia\Medepia\bin\Debug\Medepia.exe.config
+C:\Users\mustafa eren\Desktop\Medepia\Medepia\bin\Debug\Medepia.exe
+C:\Users\mustafa eren\Desktop\Medepia\Medepia\bin\Debug\Medepia.pdb
+C:\Users\mustafa eren\Desktop\Medepia\Medepia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mustafa eren\Desktop\Medepia\Medepia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mustafa eren\Desktop\Medepia\Medepia\obj\Debug\Medepia.csprojResolveAssemblyReference.cache
+C:\Users\mustafa eren\Desktop\Medepia\Medepia\obj\Debug\Medepia.Form1.resources
+C:\Users\mustafa eren\Desktop\Medepia\Medepia\obj\Debug\Medepia.Properties.Resources.resources
+C:\Users\mustafa eren\Desktop\Medepia\Medepia\obj\Debug\Medepia.csproj.GenerateResource.Cache
+C:\Users\mustafa eren\Desktop\Medepia\Medepia\obj\Debug\Medepia.exe
+C:\Users\mustafa eren\Desktop\Medepia\Medepia\obj\Debug\Medepia.pdb
+I:\İndirilenler\Medepia SON\Medepia\Medepia\bin\Debug\Medepia.exe.config
+I:\İndirilenler\Medepia SON\Medepia\Medepia\obj\Debug\Medepia.exe
+I:\İndirilenler\Medepia SON\Medepia\Medepia\obj\Debug\Medepia.pdb
+I:\İndirilenler\Medepia SON\Medepia\Medepia\bin\Debug\Medepia.exe
+I:\İndirilenler\Medepia SON\Medepia\Medepia\bin\Debug\Medepia.pdb
+I:\İndirilenler\Medepia SON\Medepia\Medepia\bin\Debug\Newtonsoft.Json.dll
+I:\İndirilenler\Medepia SON\Medepia\Medepia\bin\Debug\Newtonsoft.Json.xml
+I:\İndirilenler\Medepia SON\Medepia\Medepia\obj\Debug\Medepia.csprojResolveAssemblyReference.cache
+I:\İndirilenler\Medepia SON\Medepia\Medepia\obj\Debug\Medepia.Form1.resources
+I:\İndirilenler\Medepia SON\Medepia\Medepia\obj\Debug\Medepia.Properties.Resources.resources
+I:\İndirilenler\Medepia SON\Medepia\Medepia\obj\Debug\Medepia.csproj.GenerateResource.Cache
+C:\Users\NUR\Downloads\Medepia SON1\Medepia SON\Medepia\Medepia\bin\Debug\Medepia.exe.config
+C:\Users\NUR\Downloads\Medepia SON1\Medepia SON\Medepia\Medepia\bin\Debug\Medepia.exe
+C:\Users\NUR\Downloads\Medepia SON1\Medepia SON\Medepia\Medepia\bin\Debug\Medepia.pdb
+C:\Users\NUR\Downloads\Medepia SON1\Medepia SON\Medepia\Medepia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NUR\Downloads\Medepia SON1\Medepia SON\Medepia\Medepia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NUR\Downloads\Medepia SON1\Medepia SON\Medepia\Medepia\obj\Debug\Medepia.csprojResolveAssemblyReference.cache
+C:\Users\NUR\Downloads\Medepia SON1\Medepia SON\Medepia\Medepia\obj\Debug\Medepia.Form1.resources
+C:\Users\NUR\Downloads\Medepia SON1\Medepia SON\Medepia\Medepia\obj\Debug\Medepia.Properties.Resources.resources
+C:\Users\NUR\Downloads\Medepia SON1\Medepia SON\Medepia\Medepia\obj\Debug\Medepia.csproj.GenerateResource.Cache
+C:\Users\NUR\Downloads\Medepia SON1\Medepia SON\Medepia\Medepia\obj\Debug\Medepia.exe
+C:\Users\NUR\Downloads\Medepia SON1\Medepia SON\Medepia\Medepia\obj\Debug\Medepia.pdb
